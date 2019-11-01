@@ -1,0 +1,10 @@
+/home/bargros/Dropbox/bcs-material/Haskell/Battleship/Battleship/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bargros/Dropbox/bcs-material/Haskell/Battleship/Battleship/bin/Debug/Battleship.exe.mdb
+/home/bargros/Dropbox/bcs-material/Haskell/Battleship/Battleship/bin/Debug/Battleship.exe
+/home/bargros/Dropbox/bcs-material/Haskell/Battleship/Battleship/obj/x86/Debug/Battleship.exe
+/home/bargros/Dropbox/bcs-material/Haskell/Battleship/Battleship/obj/x86/Debug/Battleship.exe.mdb
+/home/bargros/gRepo/Battleship-Console-game/Battleship/Battleship/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/bargros/gRepo/Battleship-Console-game/Battleship/Battleship/bin/Debug/Battleship.exe.mdb
+/home/bargros/gRepo/Battleship-Console-game/Battleship/Battleship/bin/Debug/Battleship.exe
+/home/bargros/gRepo/Battleship-Console-game/Battleship/Battleship/obj/x86/Debug/Battleship.exe
+/home/bargros/gRepo/Battleship-Console-game/Battleship/Battleship/obj/x86/Debug/Battleship.exe.mdb
